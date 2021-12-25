@@ -17,13 +17,13 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "05 61 55 44 92"
+email = "levallon@email.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**Maison hospitalière "Le Vallon"**  
+ 112 Chemin des Côtes de Pech David\n
+ 31400 Toulouse\n
+ France
 """
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
